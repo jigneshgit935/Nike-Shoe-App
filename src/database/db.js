@@ -1,8 +1,6 @@
 const { MongoClient } = require('mongodb');
 
-const uri =
-  'mongodb+srv://jingeshnike:LcAXZEUU0wvnC59k@cluster0.kuv4zvx.mongodb.net/?retryWrites=true&w=majority';
-
+const uri = '';
 let client;
 
 const getDB = () => {
