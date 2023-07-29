@@ -1,6 +1,6 @@
 const { MongoClient } = require('mongodb');
 
-const uri = '';
+const uri = 'your_mongo_uri';
 let client;
 
 const getDB = () => {
