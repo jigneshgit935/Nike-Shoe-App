@@ -1,7 +1,7 @@
 # Nike-Shoe-App
 Created a Nike Shoe Application using React-Native and Global State Management with Redux using Redux-Toolkit, Backend used is NodeJS, For Database - we have used MongoDB Database
 In these I have created some features like
-1. List all Products
+1. Listing all Products
 2. After opening any specific shoe container, It will show us it's single product images and with detailed information about that product
 3. We can Slide left and right to watch specific product image from all of it's sides
 4. We have Add to Cart Feature button
